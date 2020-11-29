@@ -1,0 +1,14 @@
+<!--<?xml version="1.0"?>-->
+<!--<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"-->
+<!--           targerNamespace="http://www.booksworld.com" xmlns="http://www.booksworld.com"-->
+<!--           elementFormDefault="qualified">-->
+<!--    <xs:elment name="Book">-->
+<!--        <xs:complexType>-->
+<!--            <xs:sequence>-->
+<!--                <xs:element name="Title" type="xs:string"/>-->
+<!--                <xs:element name="Author" type="xs:string"/>-->
+<!--                <xs:element name="Champer" type="xs:string"/>-->
+<!--            </xs:sequence>-->
+<!--        </xs:complexType>-->
+<!--    </xs:elment>-->
+<!--</xs:schema>-->
